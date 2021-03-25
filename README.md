@@ -1,2 +1,2 @@
-# test
-öğrenme maksatlı
+# test2
+öğrenmeye devam
